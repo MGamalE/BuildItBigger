@@ -1,22 +1,18 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 24
-    buildToolsVersion "26.0.1"
-/*
-    configurations.all {
-        resolutionStrategy.force 'com.android.support:support-annotations:24.2.1'
-    }
+    compileSdkVersion 27
+    buildToolsVersion '27.0.3'
 
-    */
     dexOptions {
         javaMaxHeapSize "4g"
     }
+    flavorDimensions "default"
 
     defaultConfig {
         applicationId "com.udacity.gradle.builditbigger"
         minSdkVersion 15
-        targetSdkVersion 24
+        targetSdkVersion 27
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
@@ -43,35 +39,35 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
 
-    compile project(":javajoke")
-    compile project(":jokeandroidlibrary")
+    implementation project(":javajoke")
+    implementation project(":jokeandroidlibrary")
 
 
-    compile('com.google.api-client:google-api-client-android:1.17.0-rc') {
+    implementation('com.google.api-client:google-api-client-android:1.17.0-rc') {
         exclude module: 'httpclient'
     }
-    compile('com.google.http-client:google-http-client-gson:1.17.0-rc') {
+    implementation('com.google.http-client:google-http-client-gson:1.17.0-rc') {
         exclude module: 'httpclient'
     }
 
 
-    androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2') {
+    androidTestImplementation('com.android.support.test.espresso:espresso-core:2.2.2') {
         exclude group: 'com.android.support', module: 'support-annotations'
     }
-    androidTestCompile('com.android.support.test:runner:0.5') {
+    androidTestImplementation('com.android.support.test:runner:0.5') {
         exclude group: 'com.android.support', module: 'support-annotations'
     }
 
 //    compile 'com.google.api-client:google-api-client-android:1.23.0'
-    compile project(path: ':JokeBackend', configuration: 'android-endpoints')
+    implementation project(path: ':JokeBackend', configuration: 'android-endpoints')
 
-    compile 'com.android.support:multidex:1.0.1'
-    compile 'com.android.support:appcompat-v7:24.2.1'
-    freeCompile 'com.google.android.gms:play-services-ads:11.0.4'
-    compile 'com.google.code.findbugs:jsr305:2.0.1'
+    implementation 'com.android.support:multidex:1.0.3'
+    implementation 'com.android.support:appcompat-v7:27.1.1'
+    freeImplementation 'com.google.android.gms:play-services-ads:11.0.4'
+    implementation 'com.google.code.findbugs:jsr305:2.0.1'
+    implementation 'com.android.support:support-v4:27.1.1'
+    androidTestImplementation 'junit:junit:4.12'
 
-    compile 'com.android.support:support-v4:24.2.1'
-    androidTestCompile 'junit:junit:4.12'
 }

@@ -1,0 +1,1 @@
+[{"outputType":{"type":"PROCESSED_RES"},"apkInfo":{"type":"MAIN","splits":[],"versionCode":1,"versionName":"free","enabled":true,"outputFile":"app-free-debug.apk","fullName":"freeDebug","baseName":"free-debug"},"path":"resources-freeDebug.ap_","properties":{"packageId":"com.udacity.gradle.builditbigger.free","split":"","minSdkVersion":"15"}}]

@@ -1,0 +1,3 @@
+# Referenced at /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/build/intermediates/manifests/full/free/debug/AndroidManifest.xml:15
+-keep class android.support.multidex.MultiDexApplication { <init>(...); }
+

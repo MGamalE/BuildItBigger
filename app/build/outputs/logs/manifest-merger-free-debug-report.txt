@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:multidex:1.0.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/7facde5aa98fa691196e26d9d6a5e3fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/e0f8fdebe4c246ae301fd807c5de6c26/AndroidManifest.xml:16:1-18:12
+MERGED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e576f478e4718e70be2aabc37ab28e5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:16:1-27:12
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/4fee8753ab84b7409993ded69e22a334/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/2d49f5f5c0487f72c65780805f04330a/AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/8a9ae3284d42f2697592c144beada317/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/c531bf1e81b914d4d718da3a81fc50bd/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8bb7e7ffd9249583694b5838de2eea69/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72e60d13e12077ccd7304679a3e5ac2b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6b8814e4c4aa6407805fa5df9b45c4d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/391d6a2560bb928f6f3bf9da7d33e349/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f13bc22b717a0d65d2dc4936b2c3f29/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8baeeb5bdb4534b45044c144bd3d916a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fbb480f4830042b5b8f2d57f5ad622c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a4f204e1b54b068368abb6f3281a8f6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/28fb824c97e7b155975cb9c86c0c3d3e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0dc09e3512cff5ab74e7a3a9cbc8ef50/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2517bc535ab3291545b6680cac983025/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a02406081da68265e22a37a946ab834e/AndroidManifest.xml:17:1-22:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml:2:1-25:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml:2:1-25:12
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+	android:versionName
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:1-33:12
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:9:5-31:19
+MERGED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/4fee8753ab84b7409993ded69e22a334/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/4fee8753ab84b7409993ded69e22a334/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/2d49f5f5c0487f72c65780805f04330a/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/2d49f5f5c0487f72c65780805f04330a/AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/8a9ae3284d42f2697592c144beada317/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/8a9ae3284d42f2697592c144beada317/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/c531bf1e81b914d4d718da3a81fc50bd/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/c531bf1e81b914d4d718da3a81fc50bd/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:13:9-41
+	android:icon
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:12:9-43
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:14:9-40
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:10:9-68
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:10:9-68
+activity#com.udacity.gradle.builditbigger.MainActivity
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:17:9-25:20
+	android:label
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:19:13-45
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:18:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:23:27-74
+activity#com.google.android.gms.ads.AdActivity
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:27:9-30:64
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:27:9-30:64
+MERGED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:27:9-30:64
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:29:13-122
+	android:theme
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:30:13-61
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml:28:13-65
+uses-sdk
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:multidex:1.0.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/7facde5aa98fa691196e26d9d6a5e3fe/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/multidex-1.0.3.aar/7facde5aa98fa691196e26d9d6a5e3fe/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/e0f8fdebe4c246ae301fd807c5de6c26/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-11.0.4.aar/e0f8fdebe4c246ae301fd807c5de6c26/AndroidManifest.xml:17:5-43
+MERGED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e576f478e4718e70be2aabc37ab28e5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/6e576f478e4718e70be2aabc37ab28e5/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-ads-lite-11.0.4.aar/20cd288556c08cd349ea26b3da2cce1b/AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/4fee8753ab84b7409993ded69e22a334/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-clearcut-11.0.4.aar/4fee8753ab84b7409993ded69e22a334/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/2d49f5f5c0487f72c65780805f04330a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-safetynet-11.0.4.aar/2d49f5f5c0487f72c65780805f04330a/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/8a9ae3284d42f2697592c144beada317/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-gass-11.0.4.aar/8a9ae3284d42f2697592c144beada317/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/c531bf1e81b914d4d718da3a81fc50bd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.4.aar/c531bf1e81b914d4d718da3a81fc50bd/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8bb7e7ffd9249583694b5838de2eea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/8bb7e7ffd9249583694b5838de2eea69/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/2a6c0a0d285978d18db81aac93de33de/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72e60d13e12077ccd7304679a3e5ac2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/72e60d13e12077ccd7304679a3e5ac2b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6b8814e4c4aa6407805fa5df9b45c4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/6b8814e4c4aa6407805fa5df9b45c4d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/391d6a2560bb928f6f3bf9da7d33e349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/391d6a2560bb928f6f3bf9da7d33e349/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f13bc22b717a0d65d2dc4936b2c3f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/1f13bc22b717a0d65d2dc4936b2c3f29/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8baeeb5bdb4534b45044c144bd3d916a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8baeeb5bdb4534b45044c144bd3d916a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fbb480f4830042b5b8f2d57f5ad622c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/9fbb480f4830042b5b8f2d57f5ad622c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a4f204e1b54b068368abb6f3281a8f6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/4a4f204e1b54b068368abb6f3281a8f6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/28fb824c97e7b155975cb9c86c0c3d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/28fb824c97e7b155975cb9c86c0c3d3e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0dc09e3512cff5ab74e7a3a9cbc8ef50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/0dc09e3512cff5ab74e7a3a9cbc8ef50/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2517bc535ab3291545b6680cac983025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/2517bc535ab3291545b6680cac983025/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a02406081da68265e22a37a946ab834e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/a02406081da68265e22a37a946ab834e/AndroidManifest.xml:20:5-44
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/main/AndroidManifest.xml
+		INJECTED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.4.aar/23cd026cb7d518f80c8374469b96831d/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/app/src/free/AndroidManifest.xml:15:13-58
+activity#com.bakingapp.jokeandroidlibrary.JokeActivity
+ADDED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-82
+	android:name
+		ADDED from [:jokeandroidlibrary] /media/mohamedelsharkawy/M.Elsharkawy/faculty/course/Udacity/Nanodegree/Build It Bigger/jokeandroidlibrary/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:19-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /home/mohamedelsharkawy/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.4.aar/c7b4bd8d3abdc06db5311d41c2ab9cae/AndroidManifest.xml:19:19-85
